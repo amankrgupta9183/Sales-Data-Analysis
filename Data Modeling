@@ -1,1 +1,2 @@
-Filtered the Null value from Customer_id size (50K)
+There are 50K customer id which value is null, I am considering this customer as Guest users.
+Transaction Date have null value around 263K row (Keeping this Value as it is because it will affect the revenue and customers analysis)
