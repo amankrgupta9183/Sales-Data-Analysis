@@ -30,3 +30,4 @@ TransactionID, CustomerID, Transaction Date,	Transaction Amount,	Payment Method,
 18. LoyaltyPoints
 19. Shipping Cost
 
+# Data Modeling
