@@ -1,7 +1,8 @@
-# Sales-Data-Analysis (Data Overview)
+# Sales-Data-Analysis
 Explore this dataset and highlight key insights in terms of aggregate and drill down of this sales data. 
 Share SQL scripts used to explore data and generate metrics & Key insights in bullet points.
 
+# Data Overview
 Total Size of Data 19 Fields and 500K rows
 Fields Included:
 TransactionID, CustomerID, Transaction Date,	Transaction Amount,	Payment Method,	Quantity,	DiscountPercent,	City,	StoreType,	CustomerAge,	CustomerGender,	LoyaltyPoints,	ProductName,	Region,	Returned,	Feedback Score,	Shipping Cost,	Delivery Time Days,	IsPromotional
