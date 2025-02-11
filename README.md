@@ -31,3 +31,4 @@ TransactionID, CustomerID, Transaction Date,	Transaction Amount,	Payment Method,
 19. Shipping Cost
 
 # Data Modeling
+https://github.com/amankrgupta9183/Sales-Data-Analysis/blob/6fc4464a6fd0fc381de3972f79a821d6d0df882c/Data%20Modeling
